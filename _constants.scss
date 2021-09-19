@@ -1,0 +1,11 @@
+$bgheader:#c0eea9;
+$standaardP:20px;
+$bshadow:rgba(0, 0, 0, 0.75);
+$lineblack:#000;
+$bgheroandabout:#97d279;
+
+@mixin style {
+  max-width: 700px;
+  text-align: center;
+  padding: $standaardP;
+}
